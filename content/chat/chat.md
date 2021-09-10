@@ -3,8 +3,19 @@ author = []
 categories = []
 date = ""
 description = ""
-image = ""
+image = "/images/badges-emotes.png"
 tags = []
 title = "Chat"
 
 +++
+**_RULES_**
+
+**Only English and Portuguese Languages in chat.**
+
+**Respect everyone! Moderators rule.**
+
+**No Racism and no Homophobia! Don't SPAM.**
+
+**No Hostile Stream-sniping!**
+
+**Do Not Ask for Free Subs!**
