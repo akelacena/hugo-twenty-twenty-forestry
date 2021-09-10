@@ -49,7 +49,7 @@ author = "akelacena"
 description = "Official Site"
 [params.banner]
 heading = "Official Site"
-image = "images/2020-landscape-1-2.png"
+image = "images/base_final.png"
 [params.blog]
 heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
 [params.call_to_action]
