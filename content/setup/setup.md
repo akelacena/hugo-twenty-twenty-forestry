@@ -36,6 +36,8 @@ title = "Setup"
 
 **Keyboard: HyperX Alloy FPS Pro (Cherry MX)**
 
+**Controller: XBOX 360 Wireless**
+
 **Monitor1: Lenovo Legion Y25f-10 FreeSync (1080p165Hz)**
 
 **Monitor2: Dell Professional P2012H (900p60Hz)**
