@@ -1,6 +1,6 @@
 ---
 title: PUBG vs APEX
-date: 
+date: 2021-05-01T12:00:00+01:00
 image: "/images/apexvspubg.jpg"
 author: []
 categories: []
