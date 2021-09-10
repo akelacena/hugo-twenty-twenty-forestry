@@ -1,5 +1,5 @@
 ---
-title: BUDDIES Discord
+title: lol
 date: 2020-11-28T12:00:00+00:00
 image: images/buddies_qr_tiny_nobottom.png
 author: []
