@@ -62,7 +62,7 @@ title = "Setup"
 
 **_SOFTWARE_**
 
-**Windows10**
+**Windows 10**
 
 **Android**
 
