@@ -26,6 +26,7 @@ fields:
   description: Meta description
 pages:
 - content/blog/apex-vs-pubg.md
+- content/blog/buddies-discord.md
 - content/chat/chat.md
 - content/commands/commands.md
 - content/setup/setup.md
