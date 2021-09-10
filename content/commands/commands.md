@@ -62,6 +62,8 @@ title = "Commands"
 
 !donate
 
+!dro
+
 !lurk
 
 !multi
