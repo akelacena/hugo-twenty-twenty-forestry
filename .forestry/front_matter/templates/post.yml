@@ -27,3 +27,4 @@ fields:
 pages:
 - content/chat/chat.md
 - content/commands/commands.md
+- content/setup/setup.md
