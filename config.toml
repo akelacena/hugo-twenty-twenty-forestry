@@ -67,7 +67,7 @@ enable = true
 [[params.gallery.gallery_item]]
 image = "images/oro_cena.png"
 [[params.gallery.gallery_item]]
-image = "images/bds_intro.gif"
+image = "images/oro_cena.png"
 [params.social]
 email = "#"
 facebook = "https://www.facebook.com/akelacena.twitch"
