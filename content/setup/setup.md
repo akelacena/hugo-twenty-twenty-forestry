@@ -52,6 +52,8 @@ title = "Setup"
 
 **Microphone: AKG D60S**
 
+**Tablet: Asus MemoPad 10**
+
 **_SOFTWARE_**
 
 **Windows10**
