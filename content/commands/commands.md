@@ -8,7 +8,7 @@ tags = []
 title = "Commands"
 
 +++
-**My channel uses Streamlabs Chatbot and the channel coin is Cenas. Some commands require cenas. Rocks are channel points, those aren't used for chatbot but also trigger live events.**
+**My channel uses Streamlabs Chatbot and the channel coin is "Cenas". Some commands require cenas. Rocks are channel points, those aren't used for chatbot but also trigger live events.**
 
 **_TTS_**
 
