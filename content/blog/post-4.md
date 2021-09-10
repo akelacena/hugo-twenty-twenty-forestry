@@ -1,6 +1,6 @@
 ---
 title: BUDDIES Discord
-date: 
+date: 2021-01-01T10:00:00+00:00
 image: "/images/buddies_qr_tiny_nobottom.png"
 author: []
 categories: []
