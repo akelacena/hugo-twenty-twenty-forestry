@@ -10,6 +10,8 @@ title = "Commands"
 +++
 **_TTS_**
 
+!say
+
 **_SOUNDS_**
 
 **_POINTS_**
