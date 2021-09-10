@@ -3,7 +3,7 @@ author = []
 categories = []
 date = ""
 description = ""
-image = ""
+image = "/images/studio.jpg"
 tags = []
 title = "Setup"
 
