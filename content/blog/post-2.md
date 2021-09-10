@@ -1,6 +1,6 @@
 ---
 title: New Studio
-date: 2020-06-22T12:00:00+01:00
+date: 2020-06-04T12:00:00+01:00
 image: "/images/studio.jpg"
 author: []
 categories: []
