@@ -139,3 +139,13 @@ title = "Commands"
 !where
 
 **_MOD-ONLY_**
+
+!currenthosts
+
+!lucky
+
+!setgame
+
+!settitle
+
+!sh
