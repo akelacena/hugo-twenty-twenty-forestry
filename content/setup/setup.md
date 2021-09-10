@@ -54,6 +54,8 @@ title = "Setup"
 
 **Microphone: AKG D60S**
 
+**Laptop: Asus** 
+
 **Tablet: Asus MemoPad 10**
 
 **_SOFTWARE_**
