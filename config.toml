@@ -31,9 +31,9 @@ URL = "chat"
 name = "Chat"
 weight = "4"
 [[menu.main]]
-URL = ""
-name = ""
-weight = ""
+URL = "commands"
+name = "Commands"
+weight = "5"
 [[menu.main]]
 URL = ""
 name = ""
