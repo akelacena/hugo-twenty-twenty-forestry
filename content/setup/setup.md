@@ -54,7 +54,7 @@ title = "Setup"
 
 **Microphone: AKG D60S**
 
-**Laptop: Asus** 
+**Laptop: Asus Transformer Book T200TA**
 
 **Tablet: Asus MemoPad 10**
 
