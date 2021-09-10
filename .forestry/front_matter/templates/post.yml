@@ -25,6 +25,7 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/1st-stream.md
 - content/blog/apex-vs-pubg.md
 - content/blog/buddies-discord.md
 - content/blog/leaving-oro.md
