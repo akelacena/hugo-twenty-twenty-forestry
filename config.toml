@@ -10,31 +10,36 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "akelacena"
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+desktop = []
 [[menu.main]]
-name = "Setup"
-weight = 6
-[[menu.main]]
-name = "Commands"
-weight = 5
-[[menu.main]]
-name = "Chat"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "chat"
+name = "Chat"
+weight = "4"
+[[menu.main]]
+URL = "commands"
+name = "Commands"
+weight = "5"
+[[menu.main]]
+URL = "setup"
+name = "Setup"
+weight = "6"
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = "7"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
