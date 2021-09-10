@@ -58,6 +58,8 @@ title = "Setup"
 
 **OBS Studio**
 
+**TouchPortal**
+
 **Voicemeeter**
 
 **Voicemod**
