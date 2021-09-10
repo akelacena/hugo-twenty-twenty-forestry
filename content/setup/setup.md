@@ -64,12 +64,16 @@ title = "Setup"
 
 **Windows10**
 
+**Android**
+
 **OBS Studio**
 
 **TouchPortal**
 
-**Voicemeeter**
+**Streamlabs Chatbot**
+
+**Discord**
 
 **Voicemod**
 
-**Discord**
+**Voicemeeter**
