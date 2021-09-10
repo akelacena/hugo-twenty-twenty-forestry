@@ -37,8 +37,8 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
+author = "akelacena"
+description = "Official Site"
 [params.banner]
 heading = "The New UMoMA Opens its Doors"
 image = "images/2020-landscape-1-2.png"
