@@ -73,9 +73,9 @@ image = "images/2020-square-1.png"
 [params.social]
 email = "#"
 facebook = "https://www.facebook.com/akelacena.twitch"
-instagram = "#"
+instagram = "https://www.instagram.com/akelacena/"
 linkedin = ""
-twitter = "#"
+twitter = "https://twitter.com/akelacena"
 yelp = ""
 [taxonomies]
 author = "akelacena"
