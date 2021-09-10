@@ -8,7 +8,7 @@ tags = []
 title = "Chat"
 
 +++
-**Badges and Emotes for Subscribers. Emotes available with channel points.**
+**Badges and Emotes for Subscribers. Emotes also available with channel points.**
 
 **_RULES_**
 
