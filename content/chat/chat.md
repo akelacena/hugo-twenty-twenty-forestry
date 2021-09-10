@@ -8,6 +8,8 @@ tags = []
 title = "Chat"
 
 +++
+**Badges and Emotes for Subscribers. Emotes available with channel points.**
+
 **_RULES_**
 
 **Only English and Portuguese Languages in chat.**
