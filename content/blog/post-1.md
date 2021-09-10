@@ -1,6 +1,6 @@
 ---
 title: Leaving ORO
-date: 2019-11-01T12:00:00+00:00
+date: 2020-04-14T12:00:00+01:00
 image: "/images/oro.jpg"
 author: []
 categories: []
