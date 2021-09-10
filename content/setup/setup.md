@@ -44,6 +44,8 @@ title = "Setup"
 
 **Camera: GoPro HERO3+ Silver Edition**
 
+**Webcam: HP HD 2300**
+
 **Headphones1: Corsair HS70 PRO Wireless (Carbon Edition)**
 
 **Headphones2: Sennheiser CX 100 Black**
