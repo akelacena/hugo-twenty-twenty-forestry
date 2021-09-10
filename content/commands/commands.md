@@ -46,7 +46,31 @@ title = "Commands"
 
 !dontstop
 
+!fodido
+
+!foi
+
+!gg
+
+!hahaha
+
+!killyou
+
+!knock
+
+!loco
+
+!nacho
+
+!out
+
+!teresa
+
+!zombie
+
 **_POINTS_**
+
+!give
 
 !lootbox
 
@@ -64,10 +88,54 @@ title = "Commands"
 
 !dro
 
+!followage
+
+!followers
+
+!freesub
+
+!game
+
+!giveaway
+
+!instant
+
+!lastvod
+
 !lurk
 
 !multi
 
+!music
+
+!partners
+
+!points
+
+!rules
+
+!schedule
+
+!socials
+
+!sounds
+
+!subage
+
 !subs
+
+!time
+
+!title
+
+!uptime
+
+!video
+
+!viewers
+
+!views
+
+!where
 
 **_MOD-ONLY_**
