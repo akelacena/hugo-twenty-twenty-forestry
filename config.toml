@@ -49,7 +49,7 @@ description = "Official Site"
 heading = "Official Site"
 image = "images/base_final.png"
 [params.blog]
-heading = "News & Events"
+heading = "Blog"
 [params.call_to_action]
 button_label = "Contact"
 button_url = "contact"
