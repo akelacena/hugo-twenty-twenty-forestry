@@ -29,7 +29,7 @@ weight = 3
 [[menu.main]]
 URL = "chat"
 name = "Chat"
-weight = ""
+weight = "4"
 [[menu.main]]
 URL = ""
 name = ""
