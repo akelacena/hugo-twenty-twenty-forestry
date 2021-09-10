@@ -1,7 +1,7 @@
 ---
 title: BUDDIES Discord
 date: 
-image: images/2020-three-quarters-4.png
+image: "/images/buddies_qr_tiny_nobottom.png"
 author: []
 categories: []
 tags: []
