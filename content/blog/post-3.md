@@ -1,5 +1,5 @@
 ---
-title: Why I traded PUBG for APEX
+title: PUBG vs APEX
 date: 
 image: "/images/apexvspubg.jpg"
 author: []
