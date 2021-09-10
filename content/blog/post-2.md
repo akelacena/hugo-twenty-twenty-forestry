@@ -1,6 +1,6 @@
 ---
 title: New Studio
-date: 
+date: 2020-07-01T12:00:00+01:00
 image: images/2020-three-quarters-3.png
 author: []
 categories: []
