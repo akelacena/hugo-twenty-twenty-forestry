@@ -58,7 +58,7 @@ title = "Setup"
 
 **Laptop: Asus Transformer Book T200TA**
 
-**Tablet: Asus MemoPad 8**
+**Tablet: Asus MemoPad 7**
 
 **_SOFTWARE_**
 
