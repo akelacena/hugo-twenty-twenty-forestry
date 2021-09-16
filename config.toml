@@ -57,7 +57,7 @@ content = "For professional enquiries"
 enable = true
 title = "Contact Me"
 [params.footer]
-address = "https://www.twitch.tv/akelacena"
+address = "www.twitch.tv/akelacena"
 content = "I love gaming, I love streaming, I love my community 🤙 I'm Portuguese, I'm a father 👨‍👧 and 40 years old. PC is my platform (YES I play with a 🖱). FPS is my genre, be it Battle Royale, Multiplayer, Cooperative or even Story mode. 💣"
 copyright = "© akelacena 2021"
 hours = "Everyday, Always"
