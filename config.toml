@@ -69,7 +69,7 @@ image = "images/bds-intro.gif"
 [[params.gallery.gallery_item]]
 image = "images/oro_cena.png"
 [params.social]
-email = "#"
+email = "akelacena@gmail.com"
 facebook = "https://www.facebook.com/akelacena.twitch"
 instagram = "https://www.instagram.com/akelacena/"
 linkedin = ""
