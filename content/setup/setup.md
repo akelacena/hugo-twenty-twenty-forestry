@@ -32,7 +32,7 @@ title = "Setup"
 
 **Mouse: Logitech G703 LightSpeed Wireless**
 
-**MousePad: Ozone Ground Level L**
+**MousePad: Genesis Carbon 500 Ultra Blaze**
 
 **Keyboard: HyperX Alloy FPS Pro (Cherry MX)**
 
