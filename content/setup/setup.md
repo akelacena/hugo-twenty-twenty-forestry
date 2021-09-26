@@ -38,7 +38,7 @@ title = "Setup"
 
 **Controller: XBOX 360 Wireless**
 
-**Monitor1: Lenovo Legion Y25f-10 FreeSync (1080p165Hz)**
+**Monitor1: Lenovo Legion Y25f-10 FreeSync (1080p144Hz)**
 
 **Monitor2: Dell Professional P2012H (900p60Hz)**
 
