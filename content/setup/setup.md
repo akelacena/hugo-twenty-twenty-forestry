@@ -38,15 +38,15 @@ title = "Setup"
 
 **Controller: XBOX 360 Wireless**
 
-**Monitor1: Lenovo Legion Y25f-10 FreeSync (1080p144Hz)**
+**Monitor1: Asus VG24VQE 1500R (1080p16Hz)**
 
 **Monitor2: Dell Professional P2012H (900p60Hz)**
 
 **Capture Card: AverMedia Live Gamer MINI (GC311)**
 
-**Camera: GoPro HERO3+ Silver Edition**
+**Face Camera: GoPro HERO3+ Silver Edition**
 
-**Webcam: HP HD 2300**
+**2nd Webcam: HP HD 2300**
 
 **Headphones1: Corsair HS70 PRO Wireless (Carbon Edition)**
 
@@ -56,13 +56,11 @@ title = "Setup"
 
 **Microphone: AKG D60S**
 
-**Laptop: Asus Transformer Book T200TA**
-
 **Tablet: Asus MemoPad 7**
 
 **_SOFTWARE_**
 
-**Windows 10**
+**Windows 10 Pro x64**
 
 **Android**
 
@@ -74,6 +72,6 @@ title = "Setup"
 
 **Discord**
 
-**Voicemod**
+**Voicemod Pro**
 
-**Voicemeeter**
+**Voicemeeter Potato**
