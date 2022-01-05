@@ -38,7 +38,7 @@ title = "Setup"
 
 **Controller: XBOX 360 Wireless**
 
-**Monitor1: Asus VG24VQE 1500R (1080p16Hz)**
+**Monitor1: Asus VG24VQE 1500R (1080p165Hz)**
 
 **Monitor2: Dell Professional P2012H (900p60Hz)**
 
