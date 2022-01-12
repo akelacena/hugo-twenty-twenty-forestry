@@ -16,7 +16,7 @@ title = "Setup"
 
 **RAM: 32GB T-Force Dark Pro 8Pack 3600 CL16 (4x8GB)**
 
-**GPU: MSI RTX 2060 6GB Gaming Z (Upgrading)**
+**GPU: Gigabyte RTX 3060 Gaming OC 12GB LHR Rev2**
 
 **SSD1: Corsair MP600 500GB NVMe M.2 SSD Gen4**
 
