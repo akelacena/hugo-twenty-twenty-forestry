@@ -3,7 +3,7 @@ author = []
 categories = []
 date = ""
 description = ""
-image = "/images/studio.jpg"
+image = "/images/setup_hdr.jpg"
 tags = []
 title = "Setup"
 
@@ -40,13 +40,15 @@ title = "Setup"
 
 **Monitor1: Asus VG24VQE 1500R (1080p165Hz)**
 
-**Monitor2: Dell Professional P2012H (900p60Hz)**
+**Monitor2: HP 27o (1080p60Hz)**
+
+**Monitor3: Dell Professional P2012H (900p60Hz)**
 
 **Capture Card: AverMedia Live Gamer MINI (GC311)**
 
 **Face Camera: GoPro HERO3+ Silver Edition**
 
-**2nd Webcam: HP HD 2300**
+**2nd Webcam: HP HD 4310**
 
 **Headphones1: Corsair HS70 PRO Wireless (Carbon Edition)**
 
@@ -60,7 +62,7 @@ title = "Setup"
 
 **_SOFTWARE_**
 
-**Windows 10 Pro x64**
+**Windows 11 Pro x64**
 
 **Android**
 
