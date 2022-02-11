@@ -18,9 +18,9 @@ title = "Setup"
 
 **GPU: Gigabyte RTX 3060 Gaming OC 12GB LHR Rev2**
 
-**SSD1: Corsair MP600 500GB NVMe M.2 SSD Gen4**
+**SSD1: Corsair MP600 500GB NVMe M.2 Gen4**
 
-**SSD2: Toshiba OCZ RD400 500GB NVMe M.2 SSD Gen3**
+**SSD2: Toshiba OCZ RD400 500GB NVMe M.2 Gen3**
 
 **PSU: AeroCool KCAS PLUS 800W 80Plus Bronze**
 
