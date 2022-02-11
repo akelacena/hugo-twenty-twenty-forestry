@@ -22,8 +22,6 @@ title = "Setup"
 
 **SSD2: Toshiba OCZ RD400 500GB NVMe M.2 SSD Gen3**
 
-**SSD3: Toshiba 500GB Q300 2,5" SSD**
-
 **PSU: AeroCool KCAS PLUS 800W 80Plus Bronze**
 
 **Case: AeroCool Aero One Eclipse ARGB (White Edition)**
