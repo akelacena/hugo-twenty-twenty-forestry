@@ -22,7 +22,7 @@ title = "Setup"
 
 **SSD2: Toshiba OCZ RD400 500GB NVMe M.2 Gen3**
 
-**PSU: AeroCool KCAS PLUS 800W 80Plus Bronze**
+**PSU: EVGA SuperNOVA 650W GT 80Plus Gold Modular**
 
 **Case: AeroCool Aero One Eclipse ARGB (White Edition)**
 
