@@ -34,7 +34,7 @@ title = "Setup"
 
 **Keyboard: HyperX Alloy FPS Pro (Cherry MX)**
 
-**Controller: XBOX 360 Wireless**
+**Controller: Xbox 360 Wireless**
 
 **Monitor1: Asus VG24VQE 1500R (1080p165Hz)**
 
@@ -53,6 +53,8 @@ title = "Setup"
 **Microphone: AKG D60S**
 
 **Tablet: Asus Transformer Book T200TA**
+
+**Chair: Ikea Gaming Matchspel**
 
 **_SOFTWARE_**
 
