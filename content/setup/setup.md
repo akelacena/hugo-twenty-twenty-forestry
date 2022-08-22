@@ -44,9 +44,7 @@ title = "Setup"
 
 **Capture Card: AverMedia Live Gamer MINI (GC311)**
 
-**Face Camera: GoPro HERO3+ Silver Edition**
-
-**2nd Webcam: HP HD 4310**
+**Camera: GoPro HERO3+ Silver Edition**
 
 **Headphones: Sennheiser CX 100 Black**
 
