@@ -38,7 +38,7 @@ title = "Setup"
 
 **Monitor1: Asus VG24VQE 1500R (1080p165Hz)**
 
-**Monitor2: HP 27o (1080p60Hz)**
+**Monitor2: Acer B277 (1080p75Hz)**
 
 **Monitor3: Dell Professional P2012H (900p60Hz)**
 
@@ -48,21 +48,19 @@ title = "Setup"
 
 **2nd Webcam: HP HD 4310**
 
-**Headphones1: Corsair HS70 PRO Wireless (Carbon Edition)**
-
-**Headphones2: Sennheiser CX 100 Black**
+**Headphones: Sennheiser CX 100 Black**
 
 **Audio Interface: Scarlett Solo Studio 2nd Gen**
 
 **Microphone: AKG D60S**
 
-**Tablet: Asus MemoPad 7**
+**Tablet: Asus Transformer Book T200TA**
 
 **_SOFTWARE_**
 
 **Windows 11 Pro x64**
 
-**Android**
+**Android x86**
 
 **OBS Studio**
 
