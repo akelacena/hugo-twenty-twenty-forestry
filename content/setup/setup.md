@@ -50,7 +50,9 @@ title = "Setup"
 
 **Audio Interface: Scarlett Solo Studio 2nd Gen**
 
-**Microphone: AKG D60S**
+**Microphone: Rode NT2-A & SM6 Shockmount**
+
+**Arm: Sensic SA-20**
 
 **Tablet: Asus Transformer Book T200TA**
 
