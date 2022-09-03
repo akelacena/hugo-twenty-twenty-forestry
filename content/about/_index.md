@@ -3,7 +3,7 @@ title: About
 description: This is meta description
 
 ---
-I love gaming, I love streaming, I love my community 🤙 I'm Portuguese, I'm a father 👨‍👧 and 40 years old. PC is my platform (YES I play with a 🖱). FPS is my genre, be it Battle Royale, Multiplayer, Cooperative or even Story mode. 💣
+I love gaming, I love streaming, I love my community 🤙 I'm Portuguese, I'm a father 👨‍👧 and 41 years old. PC is my platform (YES I play with a 🖱). FPS is my genre, be it Battle Royale, Multiplayer, Cooperative or even Story mode. 💣
 
 I started playing games in the late 80s in a PC, also on the original Nintendo and Sega consoles. In the late 90s I focussed on Unreal Tournament and really loved it. I managed to get into the top 10 in Europe, but afterwards settled in the top 20. Also had the 2nd biggest kill streak, a 43 kill streak.
 
