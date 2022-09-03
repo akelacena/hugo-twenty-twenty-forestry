@@ -18,6 +18,6 @@ title = "Chat"
 
 **No Racism and no Homophobia! Don't SPAM.**
 
-**No Hostile Stream-sniping!**
+**No Stream-sniping!**
 
 **Do Not Ask for Free Subs!**
