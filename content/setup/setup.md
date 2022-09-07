@@ -42,9 +42,11 @@ title = "Setup"
 
 **Monitor3: Dell Professional P2012H (900p60Hz)**
 
+**Main Camera: Elgato Facecam**
+
 **Capture Card: AverMedia Live Gamer MINI (GC311)**
 
-**Camera: GoPro HERO3+ Silver Edition**
+**Back Camera: GoPro HERO3+ Silver Edition**
 
 **Headphones: Sennheiser CX 100 Black**
 
