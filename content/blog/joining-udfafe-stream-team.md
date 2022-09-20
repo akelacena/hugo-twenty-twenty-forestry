@@ -1,7 +1,7 @@
 +++
 author = []
 categories = []
-date = 2020-07-04T11:00:00Z
+date = 2022-09-16T11:00:00Z
 description = ""
 image = "/images/streamer-oficial.png"
 tags = []
