@@ -3,7 +3,7 @@ author = []
 categories = []
 date = 2020-07-04T11:00:00Z
 description = ""
-image = "/images/akelacena_studio.jpg"
+image = "/images/akelacena_studio_artistic.jpg"
 tags = []
 title = "New Studio"
 
