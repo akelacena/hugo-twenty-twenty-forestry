@@ -48,7 +48,7 @@ title = "Setup"
 
 **Back Camera: GoPro HERO3+ Silver Edition**
 
-**Headphones: Sennheiser CX 100 Black**
+**Headphones: AKG K92**
 
 **Audio Interface: Scarlett Solo Studio 2nd Gen**
 
