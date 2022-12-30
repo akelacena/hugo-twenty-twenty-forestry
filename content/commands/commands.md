@@ -14,6 +14,12 @@ title = "Commands"
 
 !say
 
+**_INTERACTIONS_**
+
+!altf4 (75,000cenas & 10m cooldown)
+
+!shoot (10,000cenas & no cooldown)
+
 **_FREE-SOUNDS_**
 
 !0alive
@@ -75,6 +81,8 @@ title = "Commands"
 !give
 
 !lootbox
+
+!lucky (VIP only)
 
 **_GAMES_**
 
@@ -144,7 +152,7 @@ title = "Commands"
 
 !currenthosts
 
-!lucky
+!luckymod
 
 !setgame
 
